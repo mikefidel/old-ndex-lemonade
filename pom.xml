@@ -10,7 +10,10 @@
     <version>1.0.X-SNAPSHOT</version>
 
     <modules>
-        <module>lemonade.gui</module>
+        <module>org.ndextools.lemonade.gui</module>
+        <module>org.ndextools.lemonade.application.cli</module>
+        <module>org.ndextools.lemonade.application.gui</module>
+        <module>org.ndextools.lemonade.gui.javafx</module>
     </modules>
 
     <name>NDEx Lemonade</name>
